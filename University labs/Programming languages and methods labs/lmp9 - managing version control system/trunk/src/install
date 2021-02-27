@@ -1,0 +1,9 @@
+make
+mv gauss ..
+cd ..
+cd dane
+rm gauss
+cd ..
+mv gauss dane
+cd dane
+./gauss A b
